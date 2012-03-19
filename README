@@ -1,0 +1,2 @@
+Library which deals with Android Calendars. Please remember that content provider content://com.android.calendar is not officially public.
+Code was tested on Android v2.3.3. 
